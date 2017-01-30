@@ -34,6 +34,9 @@ gem 'jbuilder', '~> 2.5'
 # gem sorcery for user authentcation /authorization for this Back office software
 gem 'sorcery'
 
+#help in creating the visuals for the calendar layout needed per clients requirements.
+gem 'simple_calendar'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
